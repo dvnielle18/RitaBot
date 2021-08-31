@@ -60,8 +60,7 @@ function destResolver (dest)
 // Remove from database
 // ---------------------
 
-// eslint-disable-next-line no-unused-vars
-function shoutTasks (res, data, origin, dest, destDisplay)
+function shoutTasks (res, data,)
 {
 
    data.color = "ok";
